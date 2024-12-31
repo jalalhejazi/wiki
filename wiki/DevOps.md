@@ -11,8 +11,8 @@ DevOps is more than just a methodology; it's a cultural shift that emphasizes co
 ## Key Principles of the DevOps Mindset
 
 1. **Collaboration and Ownership**
-   - Developers and operations teams work together throughout the software lifecycle.
-   - Shared accountability for the delivery and maintenance of applications.
+   - (Collaboration) Developers and operations teams work together throughout the software lifecycle.
+   - (Ownership) Shared accountability for the delivery and maintenance of applications.
 
 2. **Continuous Integration and Delivery (CI/CD)**
    - Automate code integration, testing, and deployment pipelines.
