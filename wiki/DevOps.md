@@ -18,6 +18,14 @@ DevOps is more than just a methodology; it's a cultural shift that emphasizes co
    - Automate code integration, testing, and deployment pipelines.
    - Deliver small, incremental changes to production quickly and safely.
 
+   - Definition: Continuous Integration is the practice of frequently merging all developer changes (code commits) into a shared repository, followed by automated builds and tests.
+ 
+   - **Continuous Aspect**:
+Developers integrate their code continuously, rather than waiting for long periods.
+Each integration triggers an automated pipeline to test and validate the changes.
+The process ensures that new code is compatible with the existing codebase and avoids "integration hell."
+The feedback loop is quick, allowing developers to address issues immediately.
+
 3. **Automation and Tooling**
    - Use tools to automate repetitive tasks such as testing, deployment, and monitoring.
    - Examples: Jenkins, GitHub Actions, Terraform, Kubernetes.
@@ -63,7 +71,7 @@ A DevOps professional bridges the gap between development and operations teams, 
 ## Skills Required for a DevOps Role
 
 - **Technical Skills**
-  - Proficiency in scripting and programming languages (e.g., Python, Bash).
+  - Proficiency in scripting and programming languages (e.g., PowerShell, Bash).
   - Knowledge of cloud platforms (AWS, Azure, Google Cloud).
   - Expertise in version control systems like Git.
 
@@ -92,5 +100,5 @@ A DevOps professional bridges the gap between development and operations teams, 
 
 ## Conclusion
 
-DevOps is not just a role or set of tools; it's a mindset that transforms how teams deliver and maintain software. Whether you're a developer, an operations engineer, or an aspiring DevOps professional, adopting this culture can significantly enhance your organization's efficiency and innovation.
+DevOps is not just a role or set of tools; it's a **mindset** that transforms how teams deliver and maintain software. Whether you're a developer, an operations engineer, or an aspiring DevOps professional, adopting this culture can significantly enhance your organization's efficiency and innovation.
 
