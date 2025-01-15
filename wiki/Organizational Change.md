@@ -15,6 +15,10 @@ Organizational change is a complex process, and it often fails because of severa
    - Employees often resist change due to fear of the unknown, loss of control, or skepticism about whether the change will succeed.
    - Resistance can also stem from perceived threats to job security or existing workflows.
 
+   - Confusion | Frustration | Anxiety | Fear | Resistance  
+
+> Resistance to change is the most cited reason for organizational change failure found in research.
+
 ---
 
 ### 3. **Inadequate Communication**
