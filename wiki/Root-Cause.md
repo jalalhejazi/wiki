@@ -1,23 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>root cause analysis</title>
-</head>
-<body>
+<div>
 
-    <section style="text-align: center; ">
+    <div style="text-align: center; ">
         <pre>
             Root Cause Analysis: The business demands an increased number of releases per month, 
             but we feel we can’t meet this demand without something breaking. 
             Our current processes, tooling, and testing strategies are not robust enough 
             to handle more frequent releases without compromising quality and stability.
         </pre>
-    </section>
+    </div>
 
 
-    <section>
+    <div>
         <svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="10 14 1375.7547 2145.7117" width="1375.7547" height="1345.7117">
             <defs>
               <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -7 18 14" markerWidth="18" markerHeight="14" color="#7f8080">
@@ -1657,6 +1650,5 @@
               </g>
             </g>
           </svg>
-    </section>
-</body>
-</html>
+    </div>
+</div>
