@@ -1,1 +1,1 @@
-# [DevOps wiki](./wiki/DevOps.md)
+# [DevOps wiki](https://github.com/jalalhejazi/wiki/wiki/DevOps)
